@@ -2,4 +2,4 @@
 
 Author: Duc Dam
 
-About: A repository for programs I wrote in C.
+About: A repository for programs I wrote in C for practice.
