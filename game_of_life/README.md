@@ -8,9 +8,9 @@ About: As a practice in C, I recreated Conway's Game Of Life in a version that c
 
 In Shell: ./gol inputfile.txt <0 | 1 | 2>
 
-0: Play but don't print board game. 1
+0: Play but don't print board game. 
 
-: Print board game with ASCII animation. 
+1: Print board game with ASCII animation. 
 
 2: Print board game with ParaVis animation.
 
